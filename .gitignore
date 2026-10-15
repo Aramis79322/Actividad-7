@@ -1,0 +1,19 @@
+# Compilados C++
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# VS Code
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+historial_partidas.txt
